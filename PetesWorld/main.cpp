@@ -1,6 +1,8 @@
 // program to find countries in Pete's World
 // date November 2022
 // author Pete Lowe
+// add your name here
+// Name:Eliza Zimmermann
 // Vit Prechtl
 //  or here
 // estimated time 120 minutes
@@ -173,8 +175,7 @@ int main()
 		{
 			std::cout << "Yemen Arabian Peninsula" << std::endl;
 		}
-	}
-
+	}	
 	if (letter == 'z' || letter == 'Z') // written by Pete
 	{
 		if (region == 1)
