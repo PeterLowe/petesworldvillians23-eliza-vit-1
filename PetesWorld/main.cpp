@@ -56,6 +56,106 @@ int main()
 			std::cout << "Australia, Antarctica, Aruba, Anguilla Leeward Islands, Antigua and Barbuda, American Samoa" << std::endl;
 		}
 	}	
+
+	//Eli's
+	if (letter == 'b' || letter == 'B')
+	{
+		if (region == 1)
+		{
+			std::cout << "Bolivia, Bermuda, Brazil" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Belgium, Bosnia and Herzegovina, Belarus, Bulgaria" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "Benin, Botswana, Belize, Burkina Faso, Burundi" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "Bhutan, Bangladesh, Brunei Darussalam" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Bahamas, BahrainArabian Peninsula, Barbados" << std::endl;;
+		}
+	}
+	if (letter == 'c' || letter == 'C')
+	{
+		if (region == 1)
+		{
+			std::cout << "Canada, Chile,Colombia, Costa Rica" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << " Croatia Balkan Panisula,Czech Republic " << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "Comoros, Cape Verde, Cameroon,Central African Republic, Chad, Comoros, Democratic Republic of the Congo (Kinshasa), Congo, Republic of (Brazzaville), Côte D'ivoire (Ivory Coast)" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout<<"Cambodia,China, Cyprus Mediterranean, Christmas Island, Cocos (Keeling) Islands" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Cayman Islands, Cook Islands, Cuba" << std::endl;
+		}
+	}
+	if (letter == 'd' || letter == 'D')
+	{
+		if (region == 1)
+		{
+			std::cout << "None" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Denmark " << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "Djibouti " << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "None" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Dominica, Dominican Republic" << std::endl;
+		}
+
+	}
+
+	if (letter == 'e' || letter == 'E')
+	{
+		if (region == 1)
+		{
+			std::cout << "Ecuador,El Salvador " << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Estonia" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "Egypt, Equatorial Guinea, Eritrea, Ethiopia" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "East Timor (Timor-Leste)," << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "None" << std::endl;
+		}
+
+	}
+
+
+
 	if (letter == 'z' || letter == 'Z') // written by Pete
 	{
 		if (region == 1)
