@@ -37,7 +37,7 @@ int main()
 
 	// Vit
 
-	if (letter == "s" || letter == "S")
+	if (letter == 's' || letter == 'S')
 	{
 		if (region == 1)
 		{
@@ -60,7 +60,7 @@ int main()
 			std::cout << "Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Saudi Arabia Arabian Peninsula" << std::endl;
 		}
 	}
-	if (letter == "t" || letter == "T")
+	if (letter == 't' || letter == 'T')
 	{
 		if (region == 1)
 		{
@@ -83,7 +83,7 @@ int main()
 			std::cout << "Tokelau, Tonga,Turks and Caicos Islands Carribean, Tuvalu" << std::endl;
 		}
 	}
-	if (letter == "u" || letter == "U")
+	if (letter == 'u' || letter == 'U')
 	{
 		if (region == 1)
 		{
