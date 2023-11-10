@@ -175,7 +175,7 @@ int main()
 		{
 			std::cout << "Yemen Arabian Peninsula" << std::endl;
 		}
-	}	
+	}
 	if (letter == 'z' || letter == 'Z') // written by Pete
 	{
 		if (region == 1)
@@ -200,8 +200,8 @@ int main()
 		}
 
 	}
-	
-	
-	
+
+
+
 	return 1;
 }
