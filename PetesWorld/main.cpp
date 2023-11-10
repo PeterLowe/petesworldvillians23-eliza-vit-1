@@ -57,7 +57,7 @@ int main()
 		}
 	}	
 
-	//Eli's
+	//Eli's code
 	if (letter == 'b' || letter == 'B')
 	{
 		if (region == 1)
